@@ -1,3 +1,3 @@
-# openshift-logging-demo
+# Openshift Logging Demo
 
-= Log Aggregation using Openshift Logging Demo
+Log Aggregation using Openshift Logging
